@@ -1,0 +1,6 @@
+{
+  "name": "Material Recovery - Tokyo City Planner's Edition",
+  "description": "Tokyo zero-waste urban planning tool predicting building demolition timelines and estimating waste materials using survival analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
