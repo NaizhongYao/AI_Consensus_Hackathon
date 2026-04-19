@@ -1,0 +1,69 @@
+{
+  "buildings": [
+    {
+      "building_id": "BLD-001",
+      "ward": "Shibuya",
+      "age": 54,
+      "structure_type": "木造",
+      "floor_area_m2": 120.0,
+      "risk_12m_pct": 5.1,
+      "risk_24m_pct": 10.02,
+      "risk_36m_pct": 14.77,
+      "waste_timber_m3": 24.0,
+      "waste_concrete_m3": 6.0,
+      "waste_steel_tons": 0.6,
+      "risk_level": "Low"
+    },
+    {
+      "building_id": "BLD-002",
+      "ward": "Shinjuku",
+      "age": 66,
+      "structure_type": "RC造",
+      "floor_area_m2": 500.0,
+      "risk_12m_pct": 1.97,
+      "risk_24m_pct": 3.94,
+      "risk_36m_pct": 5.89,
+      "waste_timber_m3": 10.0,
+      "waste_concrete_m3": 200.0,
+      "waste_steel_tons": 40.0,
+      "risk_level": "Low"
+    },
+    {
+      "building_id": "BLD-003",
+      "ward": "Chiyoda",
+      "age": 46,
+      "structure_type": "鉄骨造",
+      "floor_area_m2": 300.0,
+      "risk_12m_pct": 2.55,
+      "risk_24m_pct": 5.08,
+      "risk_36m_pct": 7.6,
+      "waste_timber_m3": 15.0,
+      "waste_concrete_m3": 30.0,
+      "waste_steel_tons": 36.0,
+      "risk_level": "Low"
+    },
+    {
+      "building_id": "BLD-004",
+      "ward": "Taito",
+      "age": 76,
+      "structure_type": "木造",
+      "floor_area_m2": 80.0,
+      "risk_12m_pct": 7.08,
+      "risk_24m_pct": 13.74,
+      "risk_36m_pct": 20.01,
+      "waste_timber_m3": 16.0,
+      "waste_concrete_m3": 4.0,
+      "waste_steel_tons": 0.4,
+      "risk_level": "Low"
+    }
+  ],
+  "ward_summary": {
+    "total_buildings_analyzed": 4,
+    "high_risk_buildings_count": 0,
+    "total_timber_at_risk_m3": 0.0,
+    "total_concrete_at_risk_m3": 0.0,
+    "total_steel_at_risk_tons": 0.0,
+    "total_potential_co2_savings_tons": 0.0,
+    "top_3_priority_wards": []
+  }
+}
